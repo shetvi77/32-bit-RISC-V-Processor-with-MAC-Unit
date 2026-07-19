@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+Final Register and Memory Values:
+x1 =          1
+x2 =          0
+x3 =          0
+x4 =          0
+x5 =         39
+x6 =          1
+mem[0] =          0
+MAC RESULT_LO in x5 =         39
+MAC DONE in x6      =          1
+MAC ACTIVATION x7   =          1
+MAC RESULT_HI in x8 =          0
+Internal MAC result =                    39
+Internal MAC done   = 1
+Activation output   = 1
+$stop called at time : 412 ns : File "C:/Desktop/Internship/riscv_single_cycle/riscv_single_cycle.srcs/sim_1/new/tb_riscv_core.v" Line 62
