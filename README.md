@@ -49,7 +49,7 @@ The project is divided into two major parts:
 ## Supported Instruction Set
 
 | Instruction Type | Instructions Implemented | Purpose |
-
+|---|---|---|
 | R-type | `add`, `sub`, `and`, `or`, `slt` | Register-to-register ALU operations |
 | I-type | `addi`, `lw` | Immediate arithmetic and load operation |
 | S-type | `sw` | Store register data into memory or accelerator |
